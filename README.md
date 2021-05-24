@@ -1,2 +1,1 @@
-# ai-master
-posgrado-ai-master
+# AI01-MachineLearning
